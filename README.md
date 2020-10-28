@@ -1,1 +1,1 @@
-# Home-Security-System-using-raspbery-pi-and-arduino
+# Home-Security-System-using-raspberry-pi-and-arduino
